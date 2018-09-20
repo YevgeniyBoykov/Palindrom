@@ -1,0 +1,12 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="f0ada080-2b71-4189-8f71-a7093b54ce63" name="YevgeniyBoykov">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="OPEN_IN_BROWSER_GIST" value="false" />
+    <option name="PRIVATE_GIST" value="false" />
+    <option name="CLONE_GIT_USING_SSH" value="true" />
+  </component>
+</application>
